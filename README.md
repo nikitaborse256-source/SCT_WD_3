@@ -1,44 +1,60 @@
-# RC Patel Institute of Technology, Shirpur  
-### Department of Artificial Intelligence & Data Science (AI & DS)  
-### Semester 3 Project  
+🧠 SkillCraft Technology – Web Development Internship (Task 3)
+
+🎮 Interactive Multiple-Choice Quiz Game
+
 
 ---
 
-## 🧠 Project Title
-*Quiz Generator*
+📄 Project Overview
+
+This project was developed as part of my Web Development Internship (Task 3) with SkillCraft Technology.
+The main goal of this task was to create an interactive multiple-choice quiz game using HTML, CSS, and JavaScript.
+
+The quiz dynamically loads questions, allows the user to select answers, and displays the final score and feedback at the end.
+This project demonstrates DOM manipulation, event handling, and logic building in JavaScript to create a fun and educational web application.
+
 
 ---
 
-## 📄 Overview
-This project is a *Quiz Generator* that allows users to create custom quizzes based on their input.  
-The user can select from *three types of questions* and specify the number of questions for each type.  
-The system then automatically generates a quiz accordingly.
+🚀 Features
+
+✅ Dynamic Question Display – Questions and options appear one by one dynamically.
+
+✅ Answer Selection – Users can choose one option per question.
+
+✅ Score Calculation – Calculates total score at the end and displays feedback.
+
+✅ Multiple Question Types – Supports different question formats for variety.
+
+✅ Interactive UI – Highlights selected answers and shows results interactively.
+
+✅ Responsive Design – Works smoothly on both desktop and mobile devices.
+
+
 
 ---
 
-## ✨ Features
-- ✅ Three Question Types (e.g., Multiple Choice, True/False, Fill in the Blanks)  
-- 🧩 User-defined quantity for each question type  
-- ⚙ Automatic quiz generation based on preferences  
-- 💻 Interactive interface for a smooth user experience  
+🎯 Learning Outcomes
+
+Through this project, I learned to:
+
+Use JavaScript functions and arrays to manage questions and answers.
+
+Handle events and update the DOM dynamically.
+
+Apply CSS styling to create a visually appealing quiz interface.
+
+Implement logic-based problem solving in web development.
+
+Build a user-interactive web application with real-time feedback.
+
+
 
 ---
 
-## 🎮 Usage
-1. Run the program  
-2. Select the question types you want in your quiz  
-3. Enter the number of questions for each type  
-4. Start the quiz and test your knowledge  
+👩‍💻 Author
 
----
+Name: Nikita Bapu Borse
+Internship: SkillCraft Technology – Web Development Internship
+Task: Task 3 – Interactive Multiple-Choice Quiz Game using HTML, CSS & JavaScript
 
-## 🎯 Purpose
-This project was developed as part of the *Semester 3 coursework* for the *Department of Artificial Intelligence & Data Science* at *R. C. Patel Institute of Technology, Shirpur*.  
-The goal of the project is to apply programming and logical concepts to solve a *real-world problem* — *interactive quiz generation*.
-
----
-
-## 👩‍💻 Developed By
-*Nikita Bapu Borse*  
-B.Tech – Artificial Intelligence and Data Science (AIDS)  
-R. C. Patel Institute of Technology, Shirpur
